@@ -1,6 +1,7 @@
 x = 1
 p = 3.14
 # this is my online pppp
+# my fork and spoon
 while x != "STOP" or "stop":
     x = str(input("TYPE 'T' FOR TRIANGLE, 'C' FOR CIRCLE AND 'R' FOR RECTANGLE. 'STOP' TO END CODE "))
     if x == "STOP":
